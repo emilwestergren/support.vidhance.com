@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Androids on Vidhance Support</title>
+    <link>http://support.vidhance.com/android/</link>
+    <description>Recent content in Androids on Vidhance Support</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Mar 2015 14:32:03 +0100</lastBuildDate>
+    <atom:link href="http://support.vidhance.com/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Vidhance SDK for Android</title>
+      <link>http://support.vidhance.com/android/</link>
+      <pubDate>Wed, 11 Mar 2015 14:32:03 +0100</pubDate>
+      
+      <guid>http://support.vidhance.com/android/</guid>
+      <description>
+
+&lt;h1 id=&#34;getting-started:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Getting Started&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
