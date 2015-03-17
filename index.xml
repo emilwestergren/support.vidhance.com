@@ -17,7 +17,27 @@
       <guid>http://support.vidhance.com/android/</guid>
       <description>
 
-&lt;h1 id=&#34;getting-started:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Getting Started&lt;/h1&gt;
+&lt;h1 id=&#34;prerequisites:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Prerequisites&lt;/h1&gt;
+
+&lt;h2 id=&#34;system-requirements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;System Requirements&lt;/h2&gt;
+
+&lt;h1 id=&#34;integration:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Integration&lt;/h1&gt;
+
+&lt;h2 id=&#34;wrap-driver:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Wrap Driver&lt;/h2&gt;
+
+&lt;h2 id=&#34;into-driver:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Into Driver&lt;/h2&gt;
+
+&lt;h2 id=&#34;into-app:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Into App&lt;/h2&gt;
+
+&lt;h1 id=&#34;configuration-options:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Configuration Options&lt;/h1&gt;
+
+&lt;h2 id=&#34;motion:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Motion&lt;/h2&gt;
+
+&lt;h3 id=&#34;complexity:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Complexity&lt;/h3&gt;
+
+&lt;h2 id=&#34;stabilization:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Stabilization&lt;/h2&gt;
+
+&lt;h3 id=&#34;target-scale:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Target Scale&lt;/h3&gt;
 </description>
     </item>
     
